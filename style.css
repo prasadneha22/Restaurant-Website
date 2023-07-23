@@ -6,7 +6,6 @@
 
 html,body{
     line-height: 1.4;
-    background-color: rgb(233, 210, 255);
 }
 .navigation{
     display: flex;
@@ -152,9 +151,7 @@ button:hover{
 }
 
 /* footer section */
-footer{
-    background-color: rgb(203, 222, 255);
-}
+
 .footer-container{
     padding: 30px;
     display: flex;
